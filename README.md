@@ -1,4 +1,12 @@
 ## Hi there 👋
+My name is Sam, I'm a second year CS student at the University of Toronto, interested in back-end development.
+I'm always looking for an opportunity to contribute to meaningful projects, and I'm pumped to learn and utilize new technologies!
+
+I'm currently working on PredictR, an engine that utilizes the arctic shift API to put together, and correlate subjects to predict future outcomes.
+
+I'm most proud of my project RoyaleML, which is a bot that can autonomously play Clash Royale by itself. I really enjoyed working with the Roboflow API, and PyAutoGUI. Although the bot isn't the greatest yet, I'm hoping to take some ML & AI courses to implement supervised learning 
+to bring this project to life.
+
 
 <!--
 **mqw07/mqw07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
