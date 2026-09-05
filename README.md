@@ -26,11 +26,16 @@ I'm always looking for a chance to contribute to meaningful projects, and I'm pu
 ## The project I'm proudest of
 
 **[RoyaleML](#)** &nbsp;·&nbsp; a bot that plays Clash Royale autonomously, built on the Roboflow API and PyAutoGUI. It's not quite unstoppable yet, I'm planning to pick up some ML/AI coursework and bring supervised learning into the mix to take it further.
-<img width="2560" height="1440" alt="unknown_2026 08 25-14 45_clip_1_2-ezgif com-crop" src="https://github.com/user-attachments/assets/ec24dc1a-b7c8-4ebf-80e7-5e06492bd786" />
-(Needs some work 😅)
-Let's talk
 
+<img width="2560" height="1440" alt="unknown_2026 08 25-14 45_clip_1_2" src="https://github.com/user-attachments/assets/7972bbd7-c7cb-44b4-9c86-cb547c0dad4f" />
+(Needs some work 😅)
+
+
+## Let's talk
 Always up for a chat, reach me at **Samuelwang0110@gmail.com** ✉️
+
+<img width="2125" height="575" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/35ff0d23-2e68-4e82-a246-ab12a1455781" />
+
 
 <!--
 **mqw07/mqw07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
