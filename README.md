@@ -23,7 +23,7 @@ I'm always looking for a chance to contribute to meaningful projects, and I'm pu
 
 **[PredictR](#)** &nbsp;·&nbsp; an engine that pulls from the Arctic Shift API to correlate subjects and predict future outcomes.
 
-## The project I'm proudest of
+## The project I'm most proud of
 
 **[RoyaleML](#)** &nbsp;·&nbsp; a bot that plays Clash Royale autonomously, built on the Roboflow API and PyAutoGUI. It's not quite unstoppable yet, I'm planning to pick up some ML/AI coursework and bring supervised learning into the mix to take it further.
 
